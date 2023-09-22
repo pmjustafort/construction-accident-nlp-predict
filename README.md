@@ -1,2 +1,17 @@
-# construction-accident-nlp-predict
-Utilizing Natural Language Processing to assess construction risks and suggest preventive measures based on data insights.
+# Predicting Construction Accident Severity with Natural Language Processing and Data-Driven Recommendations.
+
+## Summary
+
+## Motivation
+
+## Data Sources
+
+## Feature Engineering
+
+## Analysis
+
+## Conclusion And Recommendations
+
+## Next Steps
+
+## Repository Structure
