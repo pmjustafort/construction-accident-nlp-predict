@@ -10,8 +10,11 @@ This project aims to create a predictive model for construction accident severit
 ![number-and-rate-of-fatal](https://github.com/pmjustafort/construction-accident-nlp-predict/assets/137816262/813dfd39-f488-4214-a96c-b56779d5337f)
 
 The construction sector's safety concerns have been thrown into sharp relief by the recent statistics from the U.S. Bureau of Labor Statistics. In 2021 alone, the private construction sector reported a harrowing 986 fatalities. This figure not only surpasses the combined total of the transportation and warehousing sectors, which reported 976 fatalities, but is also more than double the fatalities in the agriculture, forestry, fishing, and hunting sectors combined, which reported 453 fatalities.
+
 The ramifications of construction accidents extend far beyond these grim numbers. They lead to significant economic impacts due to halted projects, legal claims, and compensation payouts. The environmental consequences can be severe, with accidents sometimes leading to spills, contamination, or damage to the local ecosystem. Delays in construction timelines not only escalate project costs but also inconvenience communities awaiting the completion of infrastructure or housing projects.
+
 However, the most profound impact is undoubtedly on the human front. The emotional and social toll on families who lose a loved one or see them suffer severe injuries is immeasurable. Communities grieve, and the fabric of society is weakened every time safety is compromised.
+
 The pressing need to enhance safety protocols and measures in the construction industry becomes evident. With construction recognized as one of the most hazardous industries, there's a dire need to utilize data-driven insights to mitigate these risks and protect the lives of construction workers. As the industry evolves, the focus must firmly be on ensuring that every worker returns home safely at the end of the day.
 
 ## Data Sources
