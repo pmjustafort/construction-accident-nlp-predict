@@ -6,7 +6,8 @@
 
 ## Motivation
 
-![number-and-rate-of-fatal](https://github.com/pmjustafort/construction-accident-nlp-predict/assets/137816262/58456047-f7b5-491c-a6d4-3699897e8e7c)
+![number-and-rate-of-fatal](https://github.com/pmjustafort/construction-accident-nlp-predict/assets/137816262/813dfd39-f488-4214-a96c-b56779d5337f)
+
 
 ## Data Sources
 
