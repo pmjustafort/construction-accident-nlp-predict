@@ -15,8 +15,6 @@ However, the most profound impact is undoubtedly on the human front. The emotion
 The pressing need to enhance safety protocols and measures in the construction industry becomes evident. With construction recognized as one of the most hazardous industries, there's a dire need to utilize data-driven insights to mitigate these risks and protect the lives of construction workers. As the industry evolves, the focus must firmly be on ensuring that every worker returns home safely at the end of the day.
 
 ## Data Sources
-![OSHA-Logo (1)](https://github.com/pmjustafort/construction-accident-nlp-predict/assets/137816262/742bdf61-6722-43f3-ba4f-0cd871415fb8)![Kaggle_logo](https://github.com/pmjustafort/construction-accident-nlp-predict/assets/137816262/6885c8a9-e5d5-41a1-a724-c0fa3b09f78d)
-
 Our primary dataset for this project is sourced from OSHA's (Occupational Safety and Health Administration) records of construction fatalities, which we obtained from [Kaggle](https://www.kaggle.com/datasets/ruqaiyaship/osha-accident-and-injury-data-1517). This dataset comprises 4847 records spanning from July 2015 to August 2017. Each record is described by 29 distinct features, offering a detailed account of various construction accidents, from textual event descriptions to factors leading up to the incident.
 This rich dataset provides a comprehensive look into accidents within the construction sector over a two-year period, setting the foundation for our predictive modeling and subsequent safety recommendations.
 
