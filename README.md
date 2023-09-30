@@ -26,9 +26,11 @@ This rich dataset provides a comprehensive look into accidents within the constr
 Handling Missing or Placeholder Data:
 •	Placeholder Identification: During our preliminary assessment, we identified multiple placeholder entries, notably the "0" value, in significant columns such as 'Construction End Use', 'Building Stories', and 'Project Cost'.
 •	Handling Strategies: We evaluated and applied transformation and imputation strategies to handle these placeholder entries, ensuring that any potential model bias stemming from these could be minimized.
+
 Textual Data Processing:
 •	Combination of Descriptive Text: Recognizing the value held within textual columns, we combined 'Abstract Text', 'Event Description', and 'Event Keywords' into a single 'combined_text' column. This step aimed to capture and unify all the descriptive information related to each event.
 •	Text-to-Numerical Transformation: We employed the TF-IDF Vectorizer to convert this textual data into a numerical format. This transformation quantified the importance of words in the context of the entire dataset, making the textual data digestible for our predictive models.
+
 Categorical Encoding:
 •	Feature Selection for Encoding: Some columns, like 'nature_of_inj' and 'Nature of Injury', offered overlapping information. We prioritized more descriptive versions of such features for our analysis.
 •	Encoding Process: The selected categorical features were then encoded into numerical values, making them suitable for modeling. This ensured that all categorical variables were interpreted correctly by our machine learning algorithms.
