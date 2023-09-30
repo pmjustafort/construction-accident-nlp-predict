@@ -144,10 +144,13 @@ In addition to enforcing OSHA and state regulations, by implementing these recom
 
 
 ## Repository Structure
-| -- Data/        
-| -- Images/
-| -- .gitignore
-| -- Modeling.ipynb
-| -- README
-| -- Untitled.ipynb
-| -- Untitled1.ipynb
+.
+|-- Data/
+|-- images/
+|-- .gitignore
+|-- .gitignore
+|-- Modeling.ipynb
+|-- README.md
+|-- Untitled.ipynb
+|-- Untitled1.ipynb
+
