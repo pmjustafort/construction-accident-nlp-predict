@@ -144,6 +144,7 @@ In addition to enforcing OSHA and state regulations, by implementing these recom
 
 
 ## Repository Structure
+```
 .
 |-- Data/
 |-- images/
@@ -153,4 +154,4 @@ In addition to enforcing OSHA and state regulations, by implementing these recom
 |-- README.md
 |-- Untitled.ipynb
 |-- Untitled1.ipynb
-
+```
