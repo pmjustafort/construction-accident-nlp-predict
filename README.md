@@ -145,7 +145,6 @@ In addition to enforcing OSHA and state regulations, by implementing these recom
 
 ## Repository Structure
 ```
-.
 |-- Data/
 |-- images/
 |-- .gitignore
