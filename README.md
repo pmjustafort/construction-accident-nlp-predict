@@ -106,39 +106,39 @@ These quantitative and contextual insights, amalgamated with the predictive powe
 
 
 ## Recommendations
-	Safety Training: Ensure all workers undergo comprehensive safety training. This should be routinely updated and tailored to the specific equipment and tasks they'll be handling.
+- Safety Training: Ensure all workers undergo comprehensive safety training. This should be routinely updated and tailored to the specific equipment and tasks they'll be handling.
 
-	Electrical Safety: Given the high number of electrocutions, electrical safety should be emphasized. This includes proper grounding, insulation, and the use of protective gear.
+- Electrical Safety: Given the high number of electrocutions, electrical safety should be emphasized. This includes proper grounding, insulation, and the use of protective gear.
 
-	Heavy Machinery Operations: Emphasize rigorous training for operators of heavy machinery, like excavators and forklifts. Additionally, establish a clear protocol for others on the site to ensure they are at a safe distance.
+- Heavy Machinery Operations: Emphasize rigorous training for operators of heavy machinery, like excavators and forklifts. Additionally, establish a clear protocol for others on the site to ensure they are at a safe distance.
 
-	Work Hour Regulation: Monitor and limit the number of continuous hours an employee can work, especially in physically demanding roles or extreme conditions, to prevent fatigue-related accidents.
+- Work Hour Regulation: Monitor and limit the number of continuous hours an employee can work, especially in physically demanding roles or extreme conditions, to prevent fatigue-related accidents.
 
-	Immediate Medical Attention: Implement a protocol for timely medical intervention in the event of injuries, no matter how minor they seem.
+- Immediate Medical Attention: Implement a protocol for timely medical intervention in the event of injuries, no matter how minor they seem.
 
-	Fall Protection: Ensure all elevated tasks have appropriate fall protection measures, from harnesses to guardrails.
+- Fall Protection: Ensure all elevated tasks have appropriate fall protection measures, from harnesses to guardrails.
 
-	Equipment Maintenance: Regularly maintain and inspect equipment, especially those associated with lifting and elevating tasks, to ensure they are in proper working condition.
+- Equipment Maintenance: Regularly maintain and inspect equipment, especially those associated with lifting and elevating tasks, to ensure they are in proper working condition.
 
-	Personal Protective Equipment (PPE): Ensure all workers have access to and use the right PPE for their tasks, from helmets to protective gloves.
+- Personal Protective Equipment (PPE): Ensure all workers have access to and use the right PPE for their tasks, from helmets to protective gloves.
 
-	Safety Audits: Conduct regular safety audits of worksites to identify and mitigate potential hazards proactively.
+- Safety Audits: Conduct regular safety audits of worksites to identify and mitigate potential hazards proactively.
 
-	Specialized Training for Specific Areas: Areas like kitchens, although not traditional construction zones, should be included in safety training, given the unique hazards they present.
+- Specialized Training for Specific Areas: Areas like kitchens, although not traditional construction zones, should be included in safety training, given the unique hazards they present.
 
 In addition to enforcing OSHA and state regulations, by implementing these recommendations, companies can ensure the safety and well-being of their employees, reduce the risk of accidents, and foster a culture of safety first. These proactive measures serve as a vital layer of protection and go hand-in-hand with existing safety standards, providing an extra level of assurance in construction site safety.
 
 
 ## Next Steps
-	Feature Emphasis: Focus on key features such as '000', 'kitchen', 'digging', and specific injury types ('Serious Fall/Strike', 'Amputation, Crushing') for in-depth safety audits and investigations.
+- Feature Emphasis: Focus on key features such as '000', 'kitchen', 'digging', and specific injury types ('Serious Fall/Strike', 'Amputation, Crushing') for in-depth safety audits and investigations.
 
-	Further Exploration: Feature like 'kitchen', is intriguing and warrant a deeper dive into the data to ascertain is significance. A better understanding of the context behind it might reveal novel insights about construction accidents.
+- Further Exploration: Feature like 'kitchen', is intriguing and warrant a deeper dive into the data to ascertain is significance. A better understanding of the context behind it might reveal novel insights about construction accidents.
 
-	Model Deployment: Integrate our high-performing Tuned XGBoost model into real-time monitoring systems to proactively identify high-risk incidents and enable timely interventions.
+- Model Deployment: Integrate our high-performing Tuned XGBoost model into real-time monitoring systems to proactively identify high-risk incidents and enable timely interventions.
 
-	Continuous Update: Regularly update and retrain our model with new data to ensure its predictions remain accurate and relevant.
+- Continuous Update: Regularly update and retrain our model with new data to ensure its predictions remain accurate and relevant.
 
-	Data Augmentation: Expand our dataset with more accident records and aim to acquire more recent and extensive data sources. Ensure data quality, preprocess new data, and refine feature engineering techniques.
+- Data Augmentation: Expand our dataset with more accident records and aim to acquire more recent and extensive data sources. Ensure data quality, preprocess new data, and refine feature engineering techniques.
 
 
 ## Repository Structure
